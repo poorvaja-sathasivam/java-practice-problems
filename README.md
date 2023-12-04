@@ -9,7 +9,7 @@ Some examples of the types of problems you will find:
 - Object oriented programming exercises (classes, inheritance, polymorphism)
 - Data structures exercises (lists, stacks, queues, trees, graphs)
 - Multithreading exercises
-- 
+  
 For each problem, you will find:
 
 - A clear description of the problem
