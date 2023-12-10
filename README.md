@@ -28,3 +28,5 @@ Fork this repository and improve any solution you think can be made better. Crea
 Feel free to suggest additional Java programming exercises you would like to see added!
 
 The goal is for this repository to serve as a practical resource to sharpen Java coding skills. I hope you find it useful!
+
+-Poorvaja Satha Sivam
